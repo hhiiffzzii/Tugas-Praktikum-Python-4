@@ -3,9 +3,10 @@
 ### 1. PROGRAM LIST NAMA DAN NILAI MAHASISWA
 
 > ### Source Code<br>
+![images (1)](https://user-images.githubusercontent.com/93045470/142439705-dca02c85-54b7-45bc-858e-7284d0e464be.png)
 <br>
 > ### Hasil Output<br>
-
+![images (2)](https://user-images.githubusercontent.com/93045470/142439716-ec84caea-e50d-425a-ba98-6c8429571137.png)
 
 ### 2. PROGRAM MENENTUKAN NILAI TERTINGGI DAN TERENDAH
 
