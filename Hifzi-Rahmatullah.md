@@ -11,7 +11,7 @@
 ### 2. PROGRAM MENENTUKAN NILAI TERTINGGI DAN TERENDAH
 
 > ### Source Code<br>
-![images (3 1)](https://user-images.githubusercontent.com/93045470/142445450-7dab0fcc-49fc-4f56-b430-99d1b84ca2f5.png)<br>
+![images (3 1)](https://user-images.githubusercontent.com/93045470/142445617-8ac7108f-b6bd-4ae3-8d1a-3626a9e69892.png)<br>
 > ### Hasil Output<br>
 ![images (4 1)](https://user-images.githubusercontent.com/93045470/142445463-d44aecc9-96cd-4b97-9b52-5a2200c6965c.png)
 
